@@ -1,4 +1,0 @@
-1:"$Sreact.fragment"
-2:I[44103,["/scroll-hero-project/_next/static/chunks/d9f8b5b07bbb043b.js"],"default"]
-3:I[77738,["/scroll-hero-project/_next/static/chunks/d9f8b5b07bbb043b.js"],"default"]
-0:{"buildId":"acWFebPn43QNXwV8JWanT","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
