@@ -122,7 +122,7 @@ scrollTL
 
         <img
           ref={imageRef}
-          src="/car.png"
+          src="./car.png"
           alt="hero"
           className="w-[450px] mt-10 drop-shadow-2xl"
         />
